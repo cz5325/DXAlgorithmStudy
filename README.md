@@ -23,9 +23,10 @@ git init
 ```
 - 문제마다 .py 파일 따로 작성 후 add와 commit 수시로!
 ```
-git add .
+git add [만든 폴더명]
 ```
   -> 수정된 내용 스테이징 영역에 저장
+  -> 다른 파일 업로드 XXXXXXX
 
 ```
 git commit -m "문제번호/문제내용 등 자유롭게 작성"
