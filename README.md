@@ -2,11 +2,14 @@
 ## 저장소 Fork
 
 <img width="1550" alt="스크린샷 2024-03-26 오후 10 29 04" src="https://github.com/tleunwlp/DXAlgorithmStudy/assets/85726398/876b4da3-ac0f-43c8-96d2-8b226fb9d5dc">
+
 - Fork 버튼 눌러서 자신의 레포지토리 생성한다.
+
 
 ## 원격 저장소에 자신의 레포지토리 clone
 
 <img width="555" alt="스크린샷 2024-03-26 오후 10 30 18" src="https://github.com/tleunwlp/DXAlgorithmStudy/assets/85726398/dd7d79eb-86ef-4fe5-bd1b-096ec1b0067d">
+
 - 위의 url을 복사하여 원격 저장소에 clone
 ```
 git clone [url]
