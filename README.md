@@ -6,17 +6,17 @@
 - Fork 버튼 눌러서 자신의 레포지토리 생성한다.
 
 
-## 원격 저장소에 자신의 레포지토리 clone
+## 로컬 저장소에 자신의 레포지토리 clone
 
 <img width="555" alt="스크린샷 2024-03-26 오후 10 30 18" src="https://github.com/tleunwlp/DXAlgorithmStudy/assets/85726398/dd7d79eb-86ef-4fe5-bd1b-096ec1b0067d">
 
-- 위의 url을 복사하여 원격 저장소에 clone
+- 위의 url을 복사하여 로컬 저장소에 clone
 ```
 git clone [url]
 ```
 - 여기서 url은 github.com/[자신의 ID]/DXAlgorithmStudy.git !!
 
-## 원격 저장소에서 git id와 같은 폴더 따로 생성
+## 로컬 저장소에서 git id와 같은 폴더 따로 생성
 - 원격 저장소에서 git 저장소 생성
 ```
 git init
@@ -33,7 +33,7 @@ git commit -m "문제번호/문제내용 등 자유롭게 작성"
 ```
   -> 파일의 현재상태 저장
 
-## 일요일 전 원본 저장소로 해당 챕터에 대한 PR 완료하기
+## 일요일 전에 원격 저장소로 해당 챕터에 대한 PR 완료하기
 
 - PR 올릴 때 "이름 / 해당챕터(ex.구현)"
 
