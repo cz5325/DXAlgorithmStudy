@@ -13,7 +13,7 @@ print(nums)
 # ex) 129이면 (1+2)*9 = 27, 1*2*9 = 18 
 # 곱하기 할 경우를 생각해 nums를 0이 아닌 1로 지정
 
-# 다른 방법
+# 다른방법
 data = input()
  
 result = int(data[0])
