@@ -9,6 +9,6 @@ for num in nums:
  
 print(target)
 
-# 만들 수 있는 최솟값인 1을 target에 선
+# 만들 수 있는 최솟값인 1을 target에 선언
 # target보다 다음 동전의 금액이 작거나 같다면, target에 그 동전의 금액을 더하기
 # 만약 target보다 다음 동전의 금액이 크다면, target이 만들 수 없는 최소 금액
