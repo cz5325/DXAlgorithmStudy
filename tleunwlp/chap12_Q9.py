@@ -1,5 +1,7 @@
 s = list(input())
 
+# https://school.programmers.co.kr/learn/courses/30/lessons/60057
+# 이 코드 리스트가 아닌 문자열로 바꿔서 풀어보기
 def solution(s):
     answer = []
     min_answer = 1000000000
